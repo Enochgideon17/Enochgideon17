@@ -1,135 +1,180 @@
-
-[![](https://visitcount.itsvg.in/api?id=Enochgideon17&icon=0&color=0)](https://visitcount.itsvg.in)
 # Hi there 👋 I'm Enoch Gideon
 
+<h3 align="center">
+AI & Full Stack Developer • Backend Engineering • Machine Learning Enthusiast
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Full+Stack+Developer;Open+Source+Contributor;DSA+Enthusiast;Building+AI+Powered+Applications;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=27&pause=1200&color=00C8FF&center=true&vCenter=true&width=900&lines=AI+%26+Full+Stack+Developer;Backend+Engineering+%7C+FastAPI+%7C+Java;Machine+Learning+%7C+Computer+Vision+%7C+NLP;Building+Scalable+AI+Applications;Open+Source+Learner;Future+Software+Engineer" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Enochgideon17">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/enoch-gideon">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Enochgideon17&style=for-the-badge&color=blue" />
+<a href="https://github.com/Enochgideon17">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/enoch-gideon">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:enochgideon17@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Enochgideon17&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-🎓 AI & Machine Learning Student at Cambridge Institute of Technology, Bengaluru
+🎓 AI & Machine Learning Undergraduate at Cambridge Institute of Technology
 
-💻 Passionate about Software Development, Artificial Intelligence and Cloud Technologies
+💻 Passionate about Backend Development, Artificial Intelligence and Scalable Software Systems
 
-🌱 Currently preparing for Product-Based Company Placements
+🚀 Currently building AI-powered applications using FastAPI, Machine Learning and Modern Web Technologies
 
-🧠 Solving Data Structures & Algorithms every day
+🌱 Constantly improving my skills in
 
-🤖 Interested in:
-
-* Artificial Intelligence
+* Backend Engineering
 * Machine Learning
 * Computer Vision
-* NLP
-* Backend Development
-* Generative AI
+* Natural Language Processing
+* Data Structures & Algorithms
+* System Design
 
-🎯 Goal for 2026
+🎯 Career Goal
 
-Become a Software Engineer at a top product company while building impactful AI applications.
+To become a Software Engineer building intelligent products that create real-world impact.
 
 ---
 
-# 💼 Experience
+# 💼 Professional Experience
 
-### Software Developer Intern
+## 💻 Full Stack Developer Intern | Krytil
 
-**THWorks** (Remote)
+* Developed production-ready full stack web applications
+* Built scalable REST APIs
+* Worked with React.js and JavaScript
+* Designed database structures
+* Collaborated using Git and Agile workflows
 
-* Built responsive web applications
-* Worked with React.js and Node.js
-* Improved frontend performance and UI
+---
 
-### Summer Intern
+## 🤖 AI/ML Trainee | Samsung Innovation Campus
 
-**Anay Group**
+Worked extensively on
 
-* Developed MVP of a Dating Platform
-* Built using Adalo No-Code Platform
-* Worked with product workflows
-
-### Samsung Innovation Campus
-
-* Natural Language Processing
+* Machine Learning
+* Deep Learning
+* NLP
+* Computer Vision
 * CNN
 * OpenCV
-* Python
-* Machine Learning
+* NLTK
 
-### GirlScript Summer of Code
+Built multiple AI solutions solving real-world problems.
 
-Open Source Contributor
+---
 
-🏅 Ranked among thousands of contributors
+# 🚀 Featured Projects
+
+## 🛡️ Agentic Honeypot
+
+AI-powered scam intelligence system that captures fraud conversations and extracts:
+
+* Phone Numbers
+* UPI IDs
+* Phishing URLs
+* Scam Patterns
+
+### Tech
+
+Python • FastAPI • AI Agents • NLP • MongoDB
+
+---
+
+## 🔍 Fake Job Detector
+
+Machine Learning web application that detects fraudulent job postings using NLP.
+
+### Features
+
+* TF-IDF Vectorization
+* Logistic Regression
+* Real-time Prediction
+
+### Tech
+
+Python • Scikit-learn • NLP • Streamlit
+
+---
+
+## 🤟 Hand Sign Detection
+
+Real-time Computer Vision project using MediaPipe and OpenCV.
+
+### Features
+
+* Hand Landmark Detection
+* Gesture Classification
+* Real-time Webcam Recognition
+
+### Tech
+
+Python • OpenCV • MediaPipe
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,sql"/>
 </p>
 
-## Frameworks
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,django"/>
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
 </p>
 
-## Databases
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
 </p>
 
-## Tools
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-## AI / ML
+### AI / ML
 
+* Machine Learning
+* NLP
+* Computer Vision
+* OpenCV
+* Scikit-learn
 * NumPy
 * Pandas
-* OpenCV
-* NLTK
-* CNN
-* NLP
-* Scikit-learn
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
 
 ---
 
-# 📌 Current Projects
-
-🚀 AI Powered Medical Inventory SaaS
-
-🤖 American Sign Language Detection
-
-📚 DSA Interview Preparation Repository
-
-🌐 Personal Portfolio Website
-
-🧠 Java Backend REST API Projects
-
----
-
-# 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -151,7 +196,7 @@ Open Source Contributor
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -159,41 +204,61 @@ Open Source Contributor
 
 </p>
 
+---
+
+# 🏆 Achievements
+
+🏅 Full Stack Developer Intern at Krytil
+
+🏅 Samsung Innovation Campus AI/ML Trainee
+
+🏅 NPTEL Machine Learning Certified
+
+🏅 Infosys Data Science Certified
+
+🏅 Active NSS Volunteer
+
+🏅 College Guitarist & Drummer
 
 ---
 
-# 📚 Currently Learning
+# 🌱 Currently Learning
 
-* Advanced Java
-* Spring Boot
-* System Design
-* Data Structures & Algorithms
-* Generative AI
-* Large Language Models
-* Docker & Kubernetes
+✔ Spring Boot
 
----
+✔ Advanced Java
 
-# 📫 Connect with Me
+✔ System Design
 
-<p align="left">
+✔ Docker
 
-<a href="https://www.linkedin.com/in/enoch-gideon">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+✔ Kubernetes
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
+✔ Cloud Computing
 
-</p>
+✔ Generative AI
+
+✔ Large Language Models
 
 ---
 
-# 💡 Quote
+# 🎯 2026 Goals
 
-> *"Success is built one commit, one bug fix, and one lesson at a time."*
+* Crack a Software Engineering role at a top product company
+* Build production-scale AI applications
+* Contribute to Open Source consistently
+* Master Backend Engineering
+* Strengthen DSA and System Design skills
+* Explore AI Agents and LLM-powered systems
 
-⭐ If you like my projects, don't forget to star the repositories!
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🤝 Let's Connect
+
+💼 LinkedIn
+
+📧 [enochgideon17@gmail.com](mailto:enochgideon17@gmail.com)
+
+💻 GitHub: github.com/Enochgideon17
+
+⭐ If you enjoy my projects, consider starring the repositories!
