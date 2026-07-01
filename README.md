@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Enoch Gideon
+# Hi there 👋 I'm Enoch G
 
 <h3 align="center">
 AI & Full Stack Developer • Backend Engineering • Machine Learning Enthusiast
